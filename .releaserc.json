@@ -1,4 +1,5 @@
 {
+    "repositoryUrl": "https://github.com/saizazur1/js-release",
     "branches": ["main"],
     "plugins": [
       "@semantic-release/commit-analyzer",
